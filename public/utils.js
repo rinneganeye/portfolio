@@ -27,6 +27,13 @@ export const navbar = [
 
 export const experience = [
   {
+    title: "Cybersecurity and Infrastructure Associate",
+    company: "Drona Pay Pvt. Ltd.",
+    period: "October 2024 - Present",
+    description:
+      "As a Cybersecurity and Infrastructure Associate, I managed and reported security alerts, monitored and enhanced the organization's overall security posture, and ensured compliance with industry standards and regulations. I played a key role in conducting security audits, identifying vulnerabilities, and implementing remediation strategies to mitigate risks. I collaborated with cross-functional teams to establish security best practices and supported incident response efforts. Additionally, I provided training and awareness sessions to staff to promote a culture of cybersecurity across the organization",
+  },
+  {
     title: "Security Analyst and Forensics Intern",
     company: "Cyber Police Station, Navi Mumbai",
     period: "June 2024 - July 2024",
@@ -45,7 +52,7 @@ export const experience = [
     company: "Freelance",
     period: "June 2023 - December 2023",
     description:
-      "Successfully led 4 vulnerability assessments and penetration testing (VAPT) projects with a team across various industries. I identified critical vulnerabilities such as HTML injection, directory traversal, and Cross-Site Scripting (XSS). I provided stakeholders with detailed reports, risk assessments, and remediation strategies to help improve their security posture.",
+      "Successfully led multiple vulnerability assessments and penetration testing (VAPT) projects with a team across various industries. I identified critical vulnerabilities such as HTML injection, directory traversal, and Cross-Site Scripting (XSS). I provided stakeholders with detailed reports, risk assessments, and remediation strategies to help improve their security posture.",
   },
   {
     title: "Security Analyst Intern",
