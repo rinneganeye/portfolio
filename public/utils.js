@@ -34,13 +34,6 @@ export const experience = [
       "As a Cybersecurity and Infrastructure Associate, I managed and reported security alerts, monitored and enhanced the organization's overall security posture, and ensured compliance with industry standards and regulations. I played a key role in conducting security audits, identifying vulnerabilities, and implementing remediation strategies to mitigate risks. I collaborated with cross-functional teams to establish security best practices and supported incident response efforts. Additionally, I provided training and awareness sessions to staff to promote a culture of cybersecurity across the organization.",
   },
   {
-    title: "Security Analyst and Forensics Intern",
-    company: "Cyber Police Station, Navi Mumbai",
-    period: "June 2024 - July 2024",
-    description:
-      "During my internship, I gained hands-on experience in cybercrime investigation, OSINT, and digital forensics. I assisted in gathering and analyzing evidence, while also observing cyber police operations. This experience helped me develop a strong understanding of the challenges involved in cyber investigations.",
-  },
-  {
     title: "Web Developer",
     company: "University of Mumbai",
     period: "April 2023 - January 2024",
@@ -50,7 +43,7 @@ export const experience = [
   {
     title: "Penetration Tester / Security Consultant",
     company: "Freelance",
-    period: "June 2023 - December 2023",
+    period: "December 2022 - April 2023",
     description:
       "Successfully led multiple vulnerability assessments and penetration testing (VAPT) projects with a team across various industries. I identified critical vulnerabilities such as HTML injection, directory traversal, and Cross-Site Scripting (XSS). I provided stakeholders with detailed reports, risk assessments, and remediation strategies to help improve their security posture.",
   },
