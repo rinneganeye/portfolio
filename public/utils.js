@@ -29,7 +29,7 @@ export const experience = [
   {
     title: "Cybersecurity and Infrastructure Associate",
     company: "Drona Pay Pvt. Ltd.",
-    period: "October 2024 - Present",
+    period: "October 2024 - December 2024",
     description:
       "As a Cybersecurity and Infrastructure Associate, I managed and reported security alerts, monitored and enhanced the organization's overall security posture, and ensured compliance with industry standards and regulations. I played a key role in conducting security audits, identifying vulnerabilities, and implementing remediation strategies to mitigate risks. I collaborated with cross-functional teams to establish security best practices and supported incident response efforts. Additionally, I provided training and awareness sessions to staff to promote a culture of cybersecurity across the organization.",
   },
